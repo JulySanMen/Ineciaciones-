@@ -1,8 +1,8 @@
 %octave.scriptInecuaciones
-% Escuela: Tecnologico de Estudios Superiores de Jilotepec
+% Escuela: Tecnológico de Estudios Superiores de Jilotepec
 % Especialidad: Ingeniería en Sistemas Computacionales
 % Titulo:Inecuaciones 
-% Descripción: Se encontraran resuletas tres inecuaciones 
+% Descripción: Se encontraran resueltas tres inecuaciones 
 % Autor:Alondra Cayetano Rosendo, Jonathan Zuar Hernández Mayen, Julieta Sánchez Mendoza 
 % Fecha:07-10-2021
 % Versión: 1
