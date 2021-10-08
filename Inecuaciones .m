@@ -1,12 +1,13 @@
 %octave.scriptInecuaciones
 % Escuela: Tecnologico de Estudios Superiores de Jilotepec
-% Especialidad: Ingeniería en Sistemas Computacionales
+% Especialidad: IngenierÃ­a en Sistemas Computacionales
 % Titulo:Inecuaciones 
-% Descripción: Se encontraran resuletas tres inecuaciones 
-% Autor:Alondra Cayetano Rosendo, Jonathan Zuar Hernández Mayen, Julieta Sánchez Mendoza 
+% DescripciÃ³n: Se encontraran resuletas tres inecuaciones 
+% Autor:Alondra Cayetano Rosendo, Jonathan Zuar HernÃ¡ndez Mayen, Julieta SÃ¡nchez Mendoza 
 % Fecha:07-10-2021
-% Versión: 1
-% Notas:Requierepaquete symbolic
+% VersiÃ³n: 1
+%Grupo:3101
+% Notas:Requiere paquete symbolic
 
 %Ineciaciones primer grado
 pkg load symbolic
@@ -20,7 +21,7 @@ f = x - 20
 subplot( 3 , 3 , 1 );
 ezplot(f)   
 
-% Inecuación de segundo grado
+% InecuaciÃ³n de segundo grado
 pkg load symbolic
 syms  x
 disp ('-Inecuacion de segundo grado-');
